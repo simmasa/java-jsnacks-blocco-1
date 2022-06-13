@@ -5,7 +5,7 @@ import java.util.Random;
 public class JSnack4 {
     public static void main(String[] args) {
 
-        int array[]= new int[10];
+        int[] array = new int[10];
 
         int somma=0;
 
